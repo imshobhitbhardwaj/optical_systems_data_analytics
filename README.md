@@ -174,10 +174,11 @@ The best performing models were saved and integrated into the app.
 
 ---
 
-## 👤 Author
+## 👤 Developers
 
-**Sarthak**
-GitHub: [https://github.com/srthk-13](https://github.com/srthk-13)
+**Sarthak Tiwari**
+**Shobhit Bhardwaj**
+**Yatender Kumar**
 
 ---
 
