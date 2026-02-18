@@ -177,7 +177,9 @@ The best performing models were saved and integrated into the app.
 ## 👤 Developers
 
 **Sarthak Tiwari**
+
 **Shobhit Bhardwaj**
+
 **Yatender Kumar**
 
 ---
